@@ -1,0 +1,12 @@
+nextflow
+ExAC/ExAC.r1.sites.vep.vcf
+ExAC/*
+.nextflow.log*
+.nextflow*
+output*
+test*
+work*
+trace.txt*
+nextflow-report.html*
+timeline-report.html*
+bams*
