@@ -1,5 +1,5 @@
 params.outputDir = "output"
-params.inputDir = "samples"
+params.inputDir = "input"
 
 params.ANNOVAR_BUILD_VERSION ="hg19"
 params.ANNOVAR_PROTOCOL = "refGene,cosmic70,dbnsfp33a,fathmm,1000g2015aug_all,exac03,snp138,snp129"
